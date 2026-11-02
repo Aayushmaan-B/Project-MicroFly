@@ -10,7 +10,7 @@ Flapping Kinematics: Designed for approximately 35 degree stroke amplitude using
 
 Onboard Electronic:
   * Microcontroller: TI MSPM0C1104
-  * Electromagnet Driver: TI DRV8836 Dual H-Bridge Driver
+  * Electromagnet Driver: TI DRV8836
   * IMU: ICM-42688-P
   * Power: 30mAh 3.7V LiPo
 

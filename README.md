@@ -1,6 +1,6 @@
 Project MicroFly
 
-An open source hardware, firmware, and test-rig repository for an ultra-lightweight insect scale flapping wing micro robot.
+An open source repository for a lightweight, tether less flapping wing micro robot.
 
 System Architecture:
 

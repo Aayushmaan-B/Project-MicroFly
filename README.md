@@ -11,10 +11,3 @@ Onboard Electronic
   * Motion Sensor: ICM-42688-P 6-axis IMU
   * Power: 30mAh 3.7V LiPo via ultra-low dropout regulation
 Characterization Test Bench: 2mm Carbon Fiber lever assembly integrated with a high-speed global shutter camera (Arducam OV9281 @ 120fps), strobe illumination, precision thrust logging.
-
-Repository Layout
-├── CAD Models/                3D models for test stand and micro-actuator assembly
-├── Electronics/        Custom PCB schematic, board layouts, Gerber files
-├── Firmware/           Source code for TI MSPM0 MCU pinouts and PWM driver timing
-├── Docs/               Diagrams, BOM
-└── README.md

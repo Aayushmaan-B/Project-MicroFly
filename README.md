@@ -10,8 +10,8 @@ Flapping Kinematics: Designed for approximately 35 degree stroke amplitude using
 
 Onboard Electronic:
   * Microcontroller: TI MSPM0C1104
-  * Actuator Driver: TI DRV8836 Dual H-Bridge Driver
-  * Motion Sensor: ICM-42688-P 6-axis IMU
-  * Power: 30mAh 3.7V LiPo via ultra-low dropout regulation
+  * Electromagnet Driver: TI DRV8836 Dual H-Bridge Driver
+  * IMU: ICM-42688-P
+  * Power: 30mAh 3.7V LiPo
 
 Test Bench: 2mm Carbon Fiber lever assembly integrated with a high-speed global shutter camera (Arducam OV9281 @ 120fps), strobe illumination, precision thrust logging.
